@@ -12,4 +12,4 @@ Nota 1: Es necesario tener claro donde se están instalando las librerías (en P
 Nota 2: ¡¡¡TEN CUIDADO CON LAS IDENTACIONES DE PYTHON!!!
 
 #Thanks
-#Autor = Serbeld
+#Autor = Serbeld :octocat:
