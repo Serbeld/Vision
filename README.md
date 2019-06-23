@@ -1,4 +1,4 @@
-# Rubik
+# Rubik :octocat:
 Este código va destinado al reconocimiento y posicionamiento de objetos por colores mediante la librería open cv en Python...
 
 Los requerimientos que se necesitan para que el código funcione sin problemas es necesario tener instalado:
