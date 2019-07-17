@@ -11,5 +11,14 @@ Nota 1: Es necesario tener claro donde se están instalando las librerías (en P
 
 Nota 2: ¡¡¡TEN CUIDADO CON LAS IDENTACIONES DE PYTHON!!!
 
-#Thanks
-#Autor = Serbeld :octocat:
+# Descargar OpenCV en Windows
+Copie y pegue cada una de los siguientes comandos en el CMD (Símbolo del sistema) ingresando los comandos línea por línea solo una a la vez:
+
+python -m pip install -U pip
+
+python -m pip install --upgrade pip
+
+pip install opencv-python
+
+#### Thanks...
+#### Autor = Serbeld :octocat:
