@@ -19,6 +19,6 @@ pip install opencv-python
 Nota 1: Es necesario tener claro donde se están instalando las librerías (en Python o Python 3) y saber si el entorno de desarrollo que se está usando coincide con el lugar donde se instalaron las librerías, sí instalaste las librerías solo en Python 3.6  y tu compilador esta en Python 2.7 es posible obtener un error de que no se reconocen las librerías.(Para el caso del Usuario en Linux)
 
 Nota 2: ¡¡¡TEN CUIDADO CON LAS IDENTACIONES DE PYTHON!!!
-
+####
 #### Thanks...
-#### Autor = Serbeld :octocat:
+#### Autor = Sergio Beleño :octocat: ✒️
